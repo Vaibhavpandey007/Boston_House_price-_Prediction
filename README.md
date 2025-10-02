@@ -2,6 +2,8 @@
 
 This is an interactive **Machine Learning web app** built with **Streamlit** to predict house prices in Boston based on various features. The app uses a **Gradient Boosting Regressor** trained on the classic Boston Housing dataset.
 
+🌐 Live Preview
+View Live App : (https://vaibhavpandey007-boston-house-price--prediction-model-isn72g.streamlit.app/)
 ---
 
 ## 📌 Features
@@ -65,11 +67,6 @@ Add database support to store user inputs and predictions.
 
 Improve UI with custom themes and interactive charts.
 
-🌐 Live Preview
-View Live App : https://vaibhavpandey007-boston-house-price--prediction-model-isn72g.streamlit.app/
-
 📄 License
 This project is open-source and available under the MIT License.
 
-pgsql
-Copy code
