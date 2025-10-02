@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 
-model = joblib.load("boston_gb_model.pkl")
+model = joblib.load("Boston_GB_model.pkl")
 excepted_columns = joblib.load("column.pkl")
 
 st.set_page_config(page_title="Boston Housing Price Predictor", layout="wide")
